@@ -1,0 +1,26 @@
+{
+  "name": "penueling",
+  "short_name": "penueling",
+  "theme_color": "#f85758",
+  "background_color": "#f85758",
+  "display": "fullscreen",
+  "scope": "/sw-test",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "72_72logo.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "96_96logo.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "144_144logo.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
